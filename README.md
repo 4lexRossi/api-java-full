@@ -1,5 +1,8 @@
 # API Rest em JAVA com DB Postgres e Deploy automático com Travis
 
+![](https://img.shields.io/github/stars/4lexRossi/api-java-full.svg) ![](https://img.shields.io/github/forks/4lexRossi/api-java-full.svg) ![](https://img.shields.io/github/issues/4lexRossi/api-java-full.svg)
+
+
 ## Stacks
 
 * Linux
